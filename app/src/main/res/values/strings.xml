@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Studio - Inmuebles Corr - EJ03</string>
+    <string name="tituloCrear">INFORMACION INMUEBLE</string>
+    <string name="direccion">Direccion</string>
+    <string name="numero">Num</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="provincia">Provincia</string>
+    <string name="cp">CP</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="crear">CREAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="editar">EDITAR</string>
+</resources>
